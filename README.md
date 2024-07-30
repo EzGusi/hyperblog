@@ -8,3 +8,5 @@ Un blog increíble para el curso de Git y Github de Platzi
 **No te olvides de sonreír**
 
 Creado por mi :D
+Incluye ejemplos mios
+Disponible para todas las personas
