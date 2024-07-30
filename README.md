@@ -6,3 +6,5 @@ Un blog increíble para el curso de Git y Github de Platzi
 [![readme](readme "readme")](https://cdn270.picsart.com/02a66c6f-36c3-4214-8e57-3e0cafcfd5a1/413266823025211.png "readme")
 
 **No te olvides de sonreír**
+
+Creado por mi :D
